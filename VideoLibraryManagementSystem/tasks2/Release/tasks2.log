@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (tasks2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Generating code
+  5 of 1381 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tasks2.vcxproj -> C:\Users\atana\source\repos\VideoLibraryManagementSystem\Release\VideoCassetteLibrarySystem.exe

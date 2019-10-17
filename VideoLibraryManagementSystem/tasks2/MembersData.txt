@@ -1,0 +1,72 @@
+3
+1
+Ivan Petrov
+0896664321
+Sofia, Mladost 1, bl. 15
+3
+17
+10
+2019
+17
+01
+2020
+2
+Hercules
+17
+10
+2019
+24
+10
+2019
+Batman
+17
+10
+2019
+24
+10
+2019
+2
+Valeri Kirqkov
+6655581354
+Sofia, Centre
+5
+17
+10
+2019
+17
+03
+2020
+2
+Harry Potter
+17
+10
+2019
+24
+10
+2019
+Batman
+17
+10
+2019
+24
+10
+2019
+3
+Qnko Georgiev
+125433856
+Stara Zagora, Veleznik, No. 12
+7
+17
+10
+2019
+17
+05
+2020
+1
+Hercules
+17
+10
+2019
+24
+10
+2019
